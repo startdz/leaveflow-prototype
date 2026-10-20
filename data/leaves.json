@@ -1,0 +1,15 @@
+[
+  {
+    "id": "lv-1004",
+    "userId": "u-employee-a",
+    "type": "Annual leave",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-23",
+    "reason": "Short vacation",
+    "status": "rejected",
+    "createdAt": "2026-10-19T12:00:00.000Z",
+    "reviewerId": "u-manager",
+    "reviewedAt": "2026-10-20T16:46:24.022Z",
+    "reviewNote": "kerjaan banyak"
+  }
+]

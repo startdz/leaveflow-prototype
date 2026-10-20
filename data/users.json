@@ -1,0 +1,42 @@
+[
+  {
+    "id": "u-employee-a",
+    "name": "Agnia Nurpatimah",
+    "email": "agnia_nurpatimah.admin@demo.local",
+    "role": "employee",
+    "department": "Human Resources",
+    "avatar": "NP"
+  },
+  {
+    "id": "u-manager",
+    "name": "Dede Risma",
+    "email": "dede_risma.manager@demo.local",
+    "role": "manager",
+    "department": "Engineering",
+    "avatar": "AP"
+  },
+  {
+    "id": "u-admin",
+    "name": "Fuad Dzakwan",
+    "email": "fuad.admin@demo.local",
+    "role": "admin",
+    "department": "Engineering",
+    "avatar": "FD"
+  },
+  {
+    "id": "u-employee-b",
+    "name": "Billy Kamal Fahrezi",
+    "email": "billyk_fahrezi.employee@demo.local",
+    "role": "employee",
+    "department": "Engineering",
+    "avatar": "RM"
+  },
+  {
+    "id": "u-employee-c",
+    "name": "Syehan Albani",
+    "email": "syehan_albani.employee@demo.local",
+    "role": "employee",
+    "department": "Finance",
+    "avatar": "BS"
+  }
+]
